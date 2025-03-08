@@ -1,1 +1,32 @@
-
+body {
+        background-image: url("—Pngtree—cherry blossom tree branch with_14960421.png");
+        background-size: cover;
+        /* background-color: cyan; */
+        background-color: antiquewhite;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+      }
+      .container {
+        text-align: center;
+        /* background-color: lavenderblush; */
+        background-color: ghostwhite;
+        width: 80%;
+        height: 80%;
+        border-radius: 20px;
+        box-shadow: 0 0 5px dimgrey;
+        opacity: 0.9;
+        font-family: "Times New Roman", Times, serif;
+      }
+      h1 {
+        margin-bottom: 0%;
+        font-size: 3em;
+      }
+      h6 {
+        margin-top: 0%;
+        margin-bottom: 60px;
+      }
+      p {
+        font-size: 1.5em;
+      }
